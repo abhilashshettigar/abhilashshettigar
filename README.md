@@ -9,11 +9,52 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhilashshettigar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashshettigar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abhilashshettigar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhilashshettigar&icon=0&color=0)](https://visitcount.itsvg.in)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 DevOps Power Tools: My Workflow Arsenal
+
+Supercharge your DevOps workflow with field-tested utilities! Here’s the toolkit I use for reliable, production-grade infrastructure. 👇
+
+| Tool                   | What It Does                                       | Download Link                                                 |
+|------------------------|----------------------------------------------------|---------------------------------------------------------------|
+| **Docker Desktop**     | Containerization & local Kubernetes                | [Download](https://www.docker.com/products/docker-desktop/)   |
+| **Rancher Desktop**    | Easy Kubernetes management                         | [Download](https://rancherdesktop.io/)                        |
+| **GitHub Desktop**     | Git repo made simple                               | [Download](https://desktop.github.com/)                       |
+| **iTerm**              | Power terminal for macOS                           | [Download](https://iterm2.com/downloads.html)                 |
+| **Comet Browser**      | AI-powered browsing for technical workflows        | [Download](https://www.cometapp.com/)                         |
+| **kubens**             | Quick-switch Kubernetes namespaces                 | [Download](https://github.com/ahmetb/kubectx#kubens)          |
+| **kubectx**            | Lightning-fast context switching                   | [Download](https://github.com/ahmetb/kubectx)                 |
+| **WRAP**               | AI-Power terminal coding agent                     | [Download](https://www.warp.dev/download)                    |
+| **Amazon Q Developer CLI** | AI toolkit for AWS superpowers                | [Download](https://docs.aws.amazon.com/qdeveloper/latest/userguide/qdev-install.html) |
+| **K8s Lens**           | Kubernetes cluster UI                              | [Download](https://k8slens.dev/)                              |
+| **Cursor**             | AI-enhanced code editor                            | [Download](https://www.cursor.so/download)                    |
+
+---
+
+### 🌟 VSCode / Cursor Extensions: My Formatter, Linter & Productivity Stack
+
+Top extensions for writing, linting, formatting, and supercharging your DevOps projects:
+
+| Extension           | Functionality                               | Marketplace Link                                                                                          |
+|---------------------|---------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| **Prettier**        | Code formatting made effortless             | [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)                   |
+| **YAML**            | Syntax highlighting & completion            | [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)                           |
+| **yamllint**        | Lint YAML for errors                        | [yamllint](https://marketplace.visualstudio.com/items?itemName=adrienverge.yamllint)                     |
+| **Terraform**       | Reliable IaC workflows                      | [Terraform](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform)                     |
+| **CloudFormation**  | AWS infrastructure authoring                | [CloudFormation](https://marketplace.visualstudio.com/items?itemName=aws-cloudformation.aws-cloudformation-vscode) |
+| **Python3**         | Python development & autocompletion         | [Python3](https://marketplace.visualstudio.com/items?itemName=ms-python.python)                          |
+| **Path Autocomplete**| Super-fast file path auto-completion       | [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)       |
+| **Remove Empty Lines**| Clean up code instantly                   | [Remove Empty Lines](https://marketplace.visualstudio.com/items?itemName=yzhang.remove-empty-lines)       |
+| **Trailing Spaces** | Remove and highlight trailing whitespace    | [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)         |
+| **Shell format**    | Format shell scripts (Bash, etc)            | [Shell format](https://marketplace.visualstudio.com/items?itemName=foxundermoon.shell-format)             |
+| **Indent-Rainbow**  | Visual indentation guides                   | [Indent-Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)             |
+| **GitLens**         | Visualize code history, authorship, & git insights | [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)                     |
+
+> *Every tool and extension listed above is carefully curated for efficiency, reliability, and top-tier DevOps performance.*
+
+---
+
+
+
